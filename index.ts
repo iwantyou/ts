@@ -2,7 +2,7 @@
 import express = require('express')
 import { router } from './router'
 
-let PORT:number = 3001
+let PORT:number = 3000
 let HOST:string = "localhost" 
 const app: express.Application = express()
 
